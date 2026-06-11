@@ -1,0 +1,25 @@
+# PricingAgent — Product Configuration
+# Copy this file to config.yaml and edit for your products
+
+products:
+  - name: "Sony WH-1000XM5 Wireless Headphones"
+    sku: "sony-wh1000xm5"
+    search_query: "Sony WH-1000XM5"     # What to type into Google Shopping
+    current_price: 279.00               # Your current selling price
+    margin_floor: 195.00                # Claude will never recommend below this
+    target_position: 2                  # Position to aim for (2 = safer than 1)
+    amazon_asin: "B09XS7JWHH"          # Optional — enables Buy Box tracking
+    markets:                            # Countries to monitor
+      - us
+      - gb
+      - de
+      - fr
+    currency: USD
+
+# Add more products below:
+# - name: "Your Product Name"
+#   sku: "your-sku"
+#   search_query: "product search terms"
+#   current_price: 0.00
+#   margin_floor: 0.00
+#   markets: [us, gb]
