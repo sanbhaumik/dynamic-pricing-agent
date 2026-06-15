@@ -46,7 +46,7 @@ Each run shows you the full market breakdown: competitor positions across 🇺�
 
 The demo is convincing. The real thing is better.
 
-**[→ Get your free Bright Data API key](https://brightdata.com/products/serp-api)** — pulls live competitor prices from Google Shopping, geo-targeted across any country. No credit card required to start.
+**[→ Get your free Bright Data API key]([https://get.brightdata.com/t5lik?%20content=serp-api&04-26])** — pulls live competitor prices from Google Shopping, geo-targeted across any country. No credit card required to start.
 
 Once you have your keys:
 
@@ -187,9 +187,9 @@ The backend is stateless (in-memory only) and the API shape is clean — straigh
 
 ## Built with
 
-- **[Bright Data SERP API](https://brightdata.com/products/serp-api)** — geo-targeted Google Shopping data, any country
-- **[Bright Data eCommerce Scraper API](https://brightdata.com/products/web-scraper)** — Amazon Buy Box data
-- **[Claude](https://anthropic.com)** — pricing strategy, flash sale detection, confidence scoring
+- **[Bright Data SERP API](https://get.brightdata.com/t5lik?%20content=serp-api&04-26)** — geo-targeted Google Shopping data, any country
+- **[Bright Data eCommerce Scraper API](https://get.brightdata.com/q4jmjp?content=webscraper-ecom&04-26)** — Amazon Buy Box data
+- **[Claude](https://platform.claude.com)** — pricing strategy, flash sale detection, confidence scoring
 - **[FastAPI](https://fastapi.tiangolo.com)** — async Python backend
 - **[React](https://react.dev)** + Recharts — frontend with dark theme
 
